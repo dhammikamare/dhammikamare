@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Dhammika (Mare), A professional engineer with computer engineering bachelor's degree and over 3 years of industry experience in all phases of SDLC, while practising agile scrum and object-oriented methodologies. Experienced in more than 10 industry projects while leading 4 projects as lead developer.
+
+🔭 I’m currently working in an EduTech startup [Maturify](https://www.maturify.com/) as a Senior Software Engineer   
+💬 Ask me about chatbots and cloud applications development  
+📫 Reach me via [linkedin.com/in/dhammikamarasinghe/](https://www.linkedin.com/in/dhammikamarasinghe/)
