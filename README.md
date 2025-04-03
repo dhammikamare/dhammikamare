@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dhammikamare/dhammikamare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Dhammika (Mare), A professional engineer with a computer engineering bachelor's degree and over 4 years of industry experience in all phases of SDLC, while practising agile scrum and object-oriented methodologies. Experienced in more than 10 industry projects while leading 5 projects as lead developer.
+## 👋 Hello, I'm Dhammika Marasinghe (Mare)
 
-🔭 I’m currently working in an EduTech startup [Maturify](https://www.maturify.com/) as an Associate Technical Lead   
-💬 Ask me about serverless, chatbots and cloud applications development  
-📫 Reach me via [linkedin.com/in/dhammikamarasinghe/](https://www.linkedin.com/in/dhammikamarasinghe/)
+Computer Engineer with close to a decade of industry experience in software development. I focus on product engineering, translating requirements into scalable solutions.
+
+Currently, I work at [@99x](https://github.com/99x) as a **Technical Lead**, contributing to the design and development of reliable, high-quality software systems.
+
+🛠️ Key areas of focus:
+- Product engineering and technical leadership  
+- Adapting to new technologies and domains  
+- Scalable architectures and cloud applications  
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dhammikamarasinghe/)
+
